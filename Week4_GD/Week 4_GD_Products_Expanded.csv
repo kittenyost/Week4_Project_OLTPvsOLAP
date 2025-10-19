@@ -1,0 +1,201 @@
+ProductID,Category,Subcategory,ProductName,Price
+1,Electronics,Phones,Smartphone 1,987.93
+2,Electronics,Phones,Feature Phone 2,568.68
+3,Electronics,Phones,Smartphone 3,1000.39
+4,Electronics,Phones,Smartphone 4,74.47
+5,Electronics,Phones,Smartphone 5,1304.51
+6,Electronics,Phones,Smartphone 6,111.4
+7,Electronics,Phones,Smartphone 7,1993.19
+8,Electronics,Phones,Foldable Phone 8,869.61
+9,Electronics,Phones,Feature Phone 9,1500.2
+10,Electronics,Phones,Foldable Phone 10,597.3
+11,Electronics,Phones,Foldable Phone 11,1905.48
+12,Electronics,Phones,Smartphone 12,1453.37
+13,Electronics,Phones,Foldable Phone 13,102.75
+14,Electronics,Phones,Foldable Phone 14,1893.83
+15,Electronics,Phones,Smartphone 15,585.45
+16,Electronics,Phones,Foldable Phone 16,225.08
+17,Electronics,Phones,Smartphone 17,1377.85
+18,Electronics,Phones,Feature Phone 18,1718.98
+19,Electronics,Phones,Smartphone 19,1370.97
+20,Electronics,Phones,Foldable Phone 20,1074.06
+21,Electronics,Computers,Laptop 1,1129.45
+22,Electronics,Computers,Desktop 2,490.13
+23,Electronics,Computers,Laptop 3,200.41
+24,Electronics,Computers,Laptop 4,1267.18
+25,Electronics,Computers,Desktop 5,579.66
+26,Electronics,Computers,Desktop 6,1276.82
+27,Electronics,Computers,Desktop 7,1591.72
+28,Electronics,Computers,Tablet 8,1505.04
+29,Electronics,Computers,Desktop 9,880.99
+30,Electronics,Computers,Laptop 10,1390.42
+31,Electronics,Computers,Desktop 11,343.6
+32,Electronics,Computers,Tablet 12,1851.45
+33,Electronics,Computers,Desktop 13,1788.72
+34,Electronics,Computers,Laptop 14,1288.48
+35,Electronics,Computers,Laptop 15,975.31
+36,Electronics,Computers,Desktop 16,736.61
+37,Electronics,Computers,Tablet 17,100.8
+38,Electronics,Computers,Laptop 18,504.35
+39,Electronics,Computers,Desktop 19,978.73
+40,Electronics,Computers,Tablet 20,1845.63
+41,Electronics,Computers,Desktop 21,518.2
+42,Electronics,Computers,Laptop 22,739.86
+43,Electronics,Computers,Laptop 23,770.09
+44,Electronics,Computers,Laptop 24,781.07
+45,Electronics,Computers,Laptop 25,1388.04
+46,Electronics,Accessories,Monitor 1,355.05
+47,Electronics,Accessories,Charger 2,1818.41
+48,Electronics,Accessories,Monitor 3,1457.71
+49,Electronics,Accessories,Charger 4,151.21
+50,Electronics,Accessories,Mouse 5,1112.05
+51,Electronics,Accessories,Monitor 6,1096.22
+52,Electronics,Accessories,Monitor 7,536.48
+53,Electronics,Accessories,Mouse 8,111.83
+54,Electronics,Accessories,Mouse 9,1015.77
+55,Electronics,Accessories,Headphones 10,465.94
+56,Electronics,Accessories,Charger 11,1286.94
+57,Electronics,Accessories,Charger 12,380.39
+58,Electronics,Accessories,Headphones 13,1596.97
+59,Electronics,Accessories,Monitor 14,1030.37
+60,Electronics,Accessories,Headphones 15,1509.63
+61,Electronics,Accessories,Mouse 16,1368.2
+62,Electronics,Accessories,Keyboard 17,924.64
+63,Electronics,Accessories,Headphones 18,1948.28
+64,Electronics,Accessories,Mouse 19,1808.88
+65,Electronics,Accessories,Charger 20,510.02
+66,Electronics,Accessories,Keyboard 21,1607.47
+67,Electronics,Accessories,Headphones 22,626.56
+68,Electronics,Accessories,Monitor 23,1564.6
+69,Electronics,Accessories,Mouse 24,1891.56
+70,Electronics,Accessories,Mouse 25,924.39
+71,Home,Furniture,Chair 1,203.44
+72,Home,Furniture,Bed 2,804.4
+73,Home,Furniture,Desk 3,414.21
+74,Home,Furniture,Table 4,732.66
+75,Home,Furniture,Bed 5,579.33
+76,Home,Furniture,Desk 6,342.14
+77,Home,Furniture,Desk 7,866.72
+78,Home,Furniture,Table 8,483.41
+79,Home,Furniture,Table 9,128.85
+80,Home,Furniture,Desk 10,938.55
+81,Home,Furniture,Table 11,259.35
+82,Home,Furniture,Table 12,978.76
+83,Home,Furniture,Bed 13,738.58
+84,Home,Furniture,Table 14,527.57
+85,Home,Furniture,Sofa 15,689.72
+86,Home,Furniture,Chair 16,894.42
+87,Home,Furniture,Sofa 17,429.94
+88,Home,Furniture,Desk 18,596.66
+89,Home,Furniture,Desk 19,268.25
+90,Home,Furniture,Chair 20,784.27
+91,Home,Furniture,Chair 21,739.96
+92,Home,Furniture,Chair 22,675.72
+93,Home,Furniture,Table 23,697.69
+94,Home,Furniture,Chair 24,470.51
+95,Home,Furniture,Chair 25,892.85
+96,Home,Appliances,Blender 1,507.17
+97,Home,Appliances,Toaster 2,183.35
+98,Home,Appliances,Refrigerator 3,810.04
+99,Home,Appliances,Microwave 4,67.03
+100,Home,Appliances,Oven 5,594.1
+101,Home,Appliances,Blender 6,542.37
+102,Home,Appliances,Toaster 7,332
+103,Home,Appliances,Refrigerator 8,188.37
+104,Home,Appliances,Oven 9,271.13
+105,Home,Appliances,Toaster 10,277.24
+106,Home,Appliances,Microwave 11,367.08
+107,Home,Appliances,Blender 12,721.45
+108,Home,Appliances,Refrigerator 13,71.05
+109,Home,Appliances,Blender 14,243.13
+110,Home,Appliances,Toaster 15,682.9
+111,Home,Appliances,Toaster 16,277.37
+112,Home,Appliances,Oven 17,976.46
+113,Home,Appliances,Toaster 18,87.18
+114,Home,Appliances,Oven 19,176.25
+115,Home,Appliances,Vacuum 20,87.6
+116,Home,Appliances,Refrigerator 21,66.88
+117,Home,Appliances,Refrigerator 22,403.59
+118,Home,Appliances,Refrigerator 23,328.46
+119,Home,Appliances,Oven 24,728.15
+120,Home,Appliances,Blender 25,620.79
+121,Clothing,Men,Shoes 1,188.92
+122,Clothing,Men,T-Shirt 2,153.64
+123,Clothing,Men,Jacket 3,11.02
+124,Clothing,Men,Shoes 4,173.92
+125,Clothing,Men,Shirt 5,90.9
+126,Clothing,Men,Jacket 6,97.61
+127,Clothing,Men,Shoes 7,61.84
+128,Clothing,Men,Shirt 8,188.5
+129,Clothing,Men,Shoes 9,141.09
+130,Clothing,Men,Jeans 10,102.17
+131,Clothing,Men,T-Shirt 11,76.98
+132,Clothing,Men,T-Shirt 12,54.3
+133,Clothing,Men,Shoes 13,125.44
+134,Clothing,Men,Jeans 14,154.2
+135,Clothing,Men,Jeans 15,199.05
+136,Clothing,Women,Blouse 1,115
+137,Clothing,Women,Shoes 2,127.83
+138,Clothing,Women,Blouse 3,86.57
+139,Clothing,Women,Blouse 4,45.65
+140,Clothing,Women,Shoes 5,159.14
+141,Clothing,Women,Dress 6,67.14
+142,Clothing,Women,Blouse 7,11.35
+143,Clothing,Women,Blouse 8,147.41
+144,Clothing,Women,Skirt 9,199.08
+145,Clothing,Women,Coat 10,91.52
+146,Clothing,Women,Coat 11,50.59
+147,Clothing,Women,Blouse 12,198.09
+148,Clothing,Women,Skirt 13,159.03
+149,Clothing,Women,Blouse 14,180.11
+150,Clothing,Women,Coat 15,49.18
+151,Clothing,Accessories,Hat 1,168.46
+152,Clothing,Accessories,Hat 2,50.47
+153,Clothing,Accessories,Scarf 3,13.76
+154,Clothing,Accessories,Hat 4,188.09
+155,Clothing,Accessories,Belt 5,102.28
+156,Clothing,Accessories,Bag 6,111.18
+157,Clothing,Accessories,Belt 7,37.49
+158,Clothing,Accessories,Scarf 8,177.35
+159,Clothing,Accessories,Hat 9,112.42
+160,Clothing,Accessories,Hat 10,15.79
+161,Food,Beverages,Water 1,12.98
+162,Food,Beverages,Tea 2,28.87
+163,Food,Beverages,Juice 3,12.32
+164,Food,Beverages,Juice 4,42.37
+165,Food,Beverages,Soda 5,48.94
+166,Food,Beverages,Tea 6,43.58
+167,Food,Beverages,Soda 7,45.84
+168,Food,Beverages,Tea 8,19.36
+169,Food,Beverages,Tea 9,41.12
+170,Food,Beverages,Juice 10,30.82
+171,Food,Snacks,Chocolate 1,16.71
+172,Food,Snacks,Granola Bar 2,49.65
+173,Food,Snacks,Chocolate 3,11.73
+174,Food,Snacks,Cookies 4,12.3
+175,Food,Snacks,Granola Bar 5,22.65
+176,Food,Snacks,Granola Bar 6,43.71
+177,Food,Snacks,Chips 7,39.74
+178,Food,Snacks,Granola Bar 8,39.02
+179,Food,Pantry,Sugar 1,7.27
+180,Food,Pantry,Flour 2,18.66
+181,Food,Pantry,Olive Oil 3,20.32
+182,Food,Pantry,Flour 4,13.01
+183,Food,Pantry,Pasta 5,49.13
+184,Food,Pantry,Rice 6,1.77
+185,Food,Pantry,Olive Oil 7,21.05
+186,Books,Fiction,Fantasy Book 1,37.58
+187,Books,Fiction,Fantasy Book 2,21.43
+188,Books,Fiction,Fantasy Book 3,15.21
+189,Books,Fiction,Mystery Novel 4,39.92
+190,Books,Fiction,Romance Novel 5,21.58
+191,Books,Fiction,Fantasy Book 6,25.67
+192,Books,Non-Fiction,Science Text 1,8.52
+193,Books,Non-Fiction,Science Text 2,13.65
+194,Books,Non-Fiction,Science Text 3,16.94
+195,Books,Non-Fiction,Science Text 4,33.25
+196,Books,Non-Fiction,Business Book 5,28.64
+197,Books,Children,Activity Book 1,35.22
+198,Books,Children,Picture Book 2,36.82
+199,Books,Children,Activity Book 3,27.89
+200,Books,Children,Picture Book 4,32.35
